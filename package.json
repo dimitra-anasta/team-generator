@@ -1,0 +1,27 @@
+{
+  "name": "team-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitra-anasta/team-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitra-anasta/team-generator/issues"
+  },
+  "homepage": "https://github.com/dimitra-anasta/team-generator#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
