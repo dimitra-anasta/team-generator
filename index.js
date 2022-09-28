@@ -6,6 +6,8 @@ const fs = require('fs');
 
 const employees = [];
 
+const generateMarkdown = require('./src/allCards');
+
 const managerQuestions = [
     {
       type: 'input',
@@ -121,10 +123,9 @@ function addIntern(){
 
 function finish(){
   console.log(employees);
-  fs.writeFile("/dist/index.html", employees => (err) {
+  fs.writeFile('dist/index.html', generateMarkdown(employees), (err) => {
    (err) ? console.log(err) : "error";
   })
 }
 
 askManager();
-
