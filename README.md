@@ -1,16 +1,16 @@
 # Team-Generator
 
 
-![img](assets/Screen%20Shot%202022-09-28%20at%204.21.53%20PM.png
+![img](assets/Screen%20Shot%202022-10-03%20at%2012.47.06%20PM.png)
 )
 
 ## Link
 
-
+https://drive.google.com/file/d/1Lj2CBgLGU8k9UqgIl8HJM0IyJDZ8BI-t/view?usp=sharing
 
 ## Walk-Through Video
 
-https://drive.google.com/file/d/1YLD86YA31b-GCrS-RJF0uZMi1eWwr-oI/view?usp=sharing
+
 
 
 ## Description

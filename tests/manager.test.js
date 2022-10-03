@@ -11,7 +11,7 @@ describe("manager", () => {
         const manager = new Manager ("Tom", 678, "tom@aol.com", 5551112222)
         test ("test getRole", () =>{
             expect(manager.getRole()).toEqual("Manager")
-            expect(manager.getOfficeNumbe()).toEqual(5551112222)
+            expect(manager.getOfficeNumber()).toEqual(5551112222)
         })
     })
 })
